@@ -34,10 +34,7 @@ class CreatePostsTable extends Migration
 				'constraint'     => ['published', 'draft'],
 				'default'        => 'draft',
 			],
-            'created_at'      => [
-				'type'           => 'DATETIME',
-				'null'     => false,
-			]
+            'created_at DATETIME DEFAULT CURRENT_TIMESTAMP'
 		]);
 
 		// Membuat primary key
