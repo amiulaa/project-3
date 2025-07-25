@@ -53,19 +53,19 @@
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
 					<h5 class="h5">Mulai ngoding PHP nich</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<p>Waktunya masuk ke dunia di mana setiap baris kode punya kekuatan untuk menciptakan sesuatu yang luar biasa. Jangan takut sama error, karena dari situ kamu belajar jadi lebih jago. Buka laptop, siapkan kopi, dan biarkan imajinasi bertemu logika—karena hari ini, kamu bukan cuma ngetik, kamu sedang membangun masa depan satu baris kode dalam satu waktu. Let's code! 🚀</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
 					<h5 class="h5">Jadi paham CSS dan JS</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<p>Jangan takut sama kurung kurawal dan titik koma—semua master JavaScript juga pernah bingung bedain == dan ===. Jangan minder kalau layout CSS-mu berantakan, karena semua developer pasti pernah bertarung lawan margin dan flexbox. Terus aja coba, oprek, dan bikin error, karena dari situ kamu belajar. Setiap style yang rapi dan animasi yang hidup itu hasil dari ribuan inspect element. Hari ini kamu belajar, besok kamu bikin keajaiban di browser. Gas terus, web dev warrior! 🔥💻</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
 					<h5 class="h5">Codeigniter asyik juga kok</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<p>CodeIgniter itu asyik kok—ringan, cepat, dan nggak banyak drama. Gak perlu ribet mikirin terlalu banyak hal, tinggal load library, panggil model, dan jalankan controller, langsung bisa bangun web dinamis dengan gaya kamu sendiri. Mau bikin aplikasi kecil atau proyek gede, CI siap jadi sahabat setia di balik layar. Teruslah eksplorasi, utak-atik routing, main-main di view, dan rasakan nikmatnya bikin fitur tanpa pusing mikirin ribuan konfigurasi. Yuk, buktikan kalau CodeIgniter bukan cuma simpel, tapi juga powerful! 💥🔥</p>
 				</div>
 			</div>
 			
