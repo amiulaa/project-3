@@ -51,20 +51,20 @@
 		<div class="row">
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Siapa Aku</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">About me</h5>
+					<p>Saya Amin Maulana Arrosyid, mahasiswa Universitas Nahdlatul Ulama Indonesia. Saya berasal dari Palembang atau kota yang biasa disebut dengan kota pempek, tapi sekarang tinggal di Bogor. Sekarang lagi fokus kuliah sambil terus belajar hal-hal baru, terutama di dunia pemrograman dan teknologi. Masih dalam proses, tapi pelan-pelan mulai ngerti dan makin tertarik buat ngembangin diri di bidang ini.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
 					<h5 class="h5">Bisa Apa Aku</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<p>Saya cukup terbiasa dengan dunia pemrograman, khususnya web development. Saat ini saya sedang mendalami PHP dengan CodeIgniter, serta memperkuat dasar-dasar HTML, CSS, dan JavaScript. Selain itu, saya sedang mencoba menerapkan clean code sebisa mungkin. Masih terus belajar, tapi saya suka ngulik dan gak mudah nyerah kalau ketemu error.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
 					<h5 class="h5">Bagaimana Aku</h5>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<p>Saya orangnya cukup tenang, suka belajar hal baru, dan kalau sudah tertarik sama sesuatu, biasanya saya akan terus ngulik sampai paham. Meski kadang butuh waktu, saya lebih suka pelan-pelan tapi paham daripada buru-buru tapi bingung. Saya juga tipe yang kalau dapet masalah atau error, lebih milih nyari tahu dulu sendiri sebelum nanya—karena dari situ justru jadi lebih ngerti. Intinya, saya bukan orang yang cepat puas, dan selalu ingin berkembang.</p>
 				</div>
 			</div>
 			
