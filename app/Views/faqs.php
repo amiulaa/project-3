@@ -52,14 +52,14 @@
 		<div class="row">
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Pertanyaan? (Q)</h5>
-					<p>(A) Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Kamu fokus di bidang apa?</h5>
+					<p>Saat ini saya fokus di web development, khususnya menggunakan CodeIgniter (PHP), HTML, CSS, dan JavaScript. Saya juga terus belajar untuk memperdalam skill di sisi frontend maupun backend.</p>
 				</div>
 			</div>
 			<div class="col-md-12 my-2 card">
 				<div class="card-body">
-					<h5 class="h5">Pertanyaan? (Q)</h5>
-					<p>(A) Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+					<h5 class="h5">Kamu mulai belajar ngoding dari mana?</h5>
+					<p>Saya mulai belajar ngoding sejak masuk kuliah. Awalnya dari tugas-tugas dasar pemrograman, lalu makin tertarik dan mulai eksplorasi sendiri lewat proyek kecil, tutorial, dan dokumentasi. Sekarang saya lebih aktif ngembangin skill lewat latihan dan coba-coba sendiri di luar materi kampus.</p>
 				</div>
 			</div>
 			
